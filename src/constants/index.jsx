@@ -121,8 +121,6 @@ export const featuredBooks = [
   },
 ];
 
-("AIzaSyB7-diXVwUqhYDXs605I4JaqUxd7XauzhM");
-
 export const testimonials = [
   {
     id: 1,
